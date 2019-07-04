@@ -1,5 +1,3 @@
-<?php
-
-echo "Meu primeiro código PHP! <strong>Hello World</strong>";
-
-?>
+<? php
+echo  " Meu primeiro está em código PHP!" ;
+? >
